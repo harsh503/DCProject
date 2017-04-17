@@ -1,0 +1,9 @@
+statistics
+original -16352
+without encoding-20529
+without encoding score- 0.2554
+with encoding-18688
+with encoding score-0.1428
+
+improvement-0.55
+
